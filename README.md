@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aayush3003265
+- 👋 Hi, I’m Aayush
 - 👀 I’m interested in forntend developing
 - 🌱 I’m currently learning BCA and full stack development
 - 💞️ I’m looking to collaborate on speciallt frontend
