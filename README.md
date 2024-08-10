@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from NEPAL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush3003265&label=Profile%20views&color=0e75b6&style=flat" alt="aayush3003265" /> </p>
-<img align="right" alt="coding" width="600" height = "300"src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+<img align="right" alt="coding" width="500" height = "250"src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 - 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **aayushadhikari70@gmail.com**
