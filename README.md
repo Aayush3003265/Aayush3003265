@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from NEPAL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush3003265&label=Profile%20views&color=0e75b6&style=flat" alt="aayush3003265" /> </p>
-<img align="right" alt="coding" width="300" height = "300"src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDl2cDhsa2d0dTZ6YmQzYXIzZzV3Y3l5Y3Rrdjg0ZDV6aDB4MnY1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif">
+<img align="right" alt="coding" width="600" height = "300"src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 - 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **aayushadhikari70@gmail.com**
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/profile.php?id=100088261040590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aayushadhikari70@gmail.com" height="30" width="40" /></a>
+<a href="https://fb.com/aayushadhikari70@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aayushadhikari70@gmail.com" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@aayushyt22987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aayushyt22987" height="30" width="40" /></a>
 <a href="https://discord.gg/aayush7961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aayush7961" height="30" width="40" /></a>
 </p>
@@ -31,3 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayush3003265&show_icons=true&locale=en" alt="aayush3003265" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush3003265&" alt="aayush3003265" /></p>
+<img src= "https://user-images.githubusercontent.com/74038190/216318921-21620ac8-e31f-42b0-b7dd-80ee2f424c2f.png" align="left" width="250">
+<img src= "https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" align="left" width="250">
+<img src= "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" align="left" width="1300">
