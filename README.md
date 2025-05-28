@@ -63,5 +63,5 @@
 
 ## Featured Projects
 
-- [Weather App](https://github.com/Aayush3003265/weather-app): A simple, responsive weather application built with JavaScript.
-- [Portfolio Site](https://github.com/Aayush3003265/portfolio): My personal portfolio showcasing my work and skills.
+- [Weather App](https://github.com/Aayush3003265/hamro-netflix): A simple, responsive weather application built with JavaScript.
+- [Blog App](https://github.com/Aayush3003265/blog-ejs): A simple, Blog app with nodeJS.
