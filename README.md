@@ -14,6 +14,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ejs/ejs-original.svg" alt="EJS" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" />
@@ -30,10 +33,35 @@
 
 ## Contribution Snake
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Aayush3003265/Aayush3003265/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aayush3003265/Aayush3003265/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aayush3003265/Aayush3003265/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aayush3003265/Aayush3003265/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
 ## Connect
 
-[Facebook](https://fb.com/aayushadhikari70@gmail.com) · [YouTube](https://www.youtube.com/c/@aayushyt22987) · [Discord](https://discord.com/invite/r2UYTH3KVF)
+<a href="https://www.facebook.com/Rajkumaradhik/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="30" />
+</a>
+<a href="https://www.youtube.com/@Aayushyt22987" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="30" />
+</a>
+<a href="https://discord.com/invite/r2UYTH3KVF" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="30" />
+</a>
+<a href="mailto:aayushadhikari70@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Email.svg" alt="Email" width="30" />
+</a>
+<a href="https://linkedin.com/in/Yaayush-adhikari-11ba22236" target="_blank">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Linkedin.svg" alt="LinkedIn" width="30" />
+</a>
+
+---
+
+## Featured Projects
+
+- [Weather App](https://github.com/Aayush3003265/weather-app): A simple, responsive weather application built with JavaScript.
+- [Portfolio Site](https://github.com/Aayush3003265/portfolio): My personal portfolio showcasing my work and skills.
