@@ -5,7 +5,7 @@
 - 🌱 Currently learning: JavaScript  
 - 📫 Reach me: [aayushadhikari70@gmail.com](mailto:aayushadhikari70@gmail.com)
 
----
+----
 
 ## Technologies
 
