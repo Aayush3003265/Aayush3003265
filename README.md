@@ -2,7 +2,7 @@
 
 **Frontend Developer | Nepal**
 
-- 🌱 Currently learning: JavaScript  
+- 🌱 Currently learning: NextJS  
 - 📫 Reach me: [aayushadhikari70@gmail.com](mailto:aayushadhikari70@gmail.com)
 
 ----
