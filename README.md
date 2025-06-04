@@ -40,6 +40,12 @@
 
 ---
 
+## Steak Bar
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aayush3003265&theme=default&hide_border=true)](https://git.io/streak-stats)
+
+---
+
 ## Connect
 
 <a href="https://www.facebook.com/Rajkumaradhik/" target="_blank">
