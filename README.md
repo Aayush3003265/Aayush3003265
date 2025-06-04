@@ -5,7 +5,15 @@
 - 🌱 Currently learning: NextJS  
 - 📫 Reach me: [aayushadhikari70@gmail.com](mailto:aayushadhikari70@gmail.com)
 
+- ---
+
+## Stats
+
+![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aayush3003265&show_icons=true&hide_title=true&hide_border=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayush3003265&layout=compact&hide_border=true&theme=default)
+
 ----
+
 
 ## Technologies
 
@@ -21,12 +29,7 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" />
 </span>
 
----
 
-## Stats
-
-![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aayush3003265&show_icons=true&hide_title=true&hide_border=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayush3003265&layout=compact&hide_border=true&theme=default)
 
 ---
 
