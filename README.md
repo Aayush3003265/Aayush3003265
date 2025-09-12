@@ -2,7 +2,8 @@
 
 **Frontend Developer | Nepal**
 
-- 🌱 Currently learning: NextJS  
+- 🌱 Currently learning: NextJS
+- I'm planning to jump on Python.... 
 - 📫 Reach me: [aayushadhikari70@gmail.com](mailto:aayushadhikari70@gmail.com)
 
 
