@@ -28,8 +28,8 @@
 - ---
 
 ## Stats
-![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aayush3003265&show_icons=true&hide_title=true&hide_border=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush3003265&layout=compact&hide_border=true&theme=dark)
+![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aayush3003265&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&title_color=58a6ff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush3003265&layout=compact&hide_border=true&bg_color=0d1117&text_color=ffffff)
 
 ---
 
