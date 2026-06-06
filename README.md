@@ -34,7 +34,7 @@
 ---
 
 ## Streak Bar
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aayush3003265&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Aayush3003265)](https://git.io/streak-stats)
 
 ---
 
