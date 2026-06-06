@@ -27,11 +27,6 @@
 
 - ---
 
-## Stats
-![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aayush3003265&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&title_color=58a6ff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush3003265&layout=compact&hide_border=true&bg_color=0d1117&text_color=ffffff)
-
----
 
 ## Streak Bar
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Aayush3003265)](https://git.io/streak-stats)
