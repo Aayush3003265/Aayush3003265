@@ -28,16 +28,13 @@
 - ---
 
 ## Stats
-
-![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aayush3003265&show_icons=true&hide_title=true&hide_border=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush3003265&layout=compact&hide_border=true&theme=default)
-
+![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aayush3003265&show_icons=true&hide_title=true&hide_border=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush3003265&layout=compact&hide_border=true&theme=dark)
 
 ---
 
-## Steak Bar
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Aayush3003265DenverCoder1)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aayush3003265&theme=default&hide_border=true)](https://git.io/streak-stats)
+## Streak Bar
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aayush3003265&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
