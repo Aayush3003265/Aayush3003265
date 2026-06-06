@@ -30,18 +30,7 @@
 
 ---
 
-## 🏆 Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Aayush3003265&theme=onedark&no-frame=true&row=1&column=6)
-
----
-
-## 📊 Stats
-
-![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aayush3003265&show_icons=true&hide_border=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush3003265&layout=compact&hide_border=true&theme=dark)
-
----
 
 ## 🔥 Streak Bar
 
