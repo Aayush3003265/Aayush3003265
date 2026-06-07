@@ -69,5 +69,6 @@
 
 | Project | Description |
 |--------|-------------|
+| [🛒 Ebazaar](https://github.com/Aayush3003265/ebazaar) · [Live ↗](https://frontend-last-nekszdsig-aayushs-projects-a9980c89.vercel.app/) | Full-stack ecommerce website built with modern web technologies |
 | [🌤️ Weather App](https://github.com/Aayush3003265/hamro-netflix) | Simple responsive weather app built with JavaScript |
 | [📝 Blog App](https://github.com/Aayush3003265/blog-ejs) | Blog application built with Node.js & EJS |
